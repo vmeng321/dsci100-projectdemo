@@ -2,3 +2,5 @@
 Template project repository for DSCI-100
 
 - demo the pen tool.
+
+- demo using the git pull command.
